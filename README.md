@@ -25,11 +25,11 @@ The purpose of this study is to analyze the impact of tourism development on reg
 
 **Data**
 
-The dataset used in this study contains information on the impact of tourism on Gross Domestic Regional Product (GDRP) in 34 provinces of Indonesia from 2018 to 2020. The variables include the number of foreign and domestic tourists as treatment variables, with GRDP as the outcome variable. The control variables are macroeconomic conditions (tourism employment, Foreign Direct Investment (FDI), and Domestic Direct Investment (DDI)), human capital (Human Development Index), infrastructure (number of accommodations), and population density. All data were sourced from Statistic Indonesia, except for the number of tourism employments, which was obtained from the Ministry of Tourism and Creative Economy.
+The dataset used in this study contains information on the impact of tourism on the Gross Domestic Regional Product (GDRP) in 34 provinces of Indonesia from 2018 to 2020. The variables include the number of foreign and domestic tourists as treatment variables, with GRDP as the outcome variable. The control variables are macroeconomic conditions (tourism employment, Foreign Direct Investment (FDI), and Domestic Direct Investment (DDI)), human capital (Human Development Index), infrastructure (number of accommodations), and population density. All data were sourced from Statistic Indonesia, except for the number of tourism employments, which was obtained from the Ministry of Tourism and Creative Economy.
 
 **File Structure**
 
-The cleaned data for the tourism dataset is in the present folder as IJASE-AnalysisofTheRoleofTourisminTheEconomyinIndonesia.xlsx. Then, for R code is separated into two files, firstly all of the code for map and spatial analysis (Ggplot, Moran’s, Lisa cluster, etc) is in the folder called Map and Spatial Analysis.R , secondly, all of the causality or regression code is called Panel Regression (Spatial and Fix effect).R.  It is best to clone the file structure to your local system to run the code without error.
+The cleaned data for the tourism dataset is in the present folder as IJASE-AnalysisofTheRoleofTourisminTheEconomyinIndonesia.xlsx. Then, for R code is separated into two files, firstly all of the code for map and spatial analysis (Ggplot, Moran’s, Lisa cluster, etc) is in the folder called Map and Spatial Analysis. R , secondly, all of the causality or regression code is called Panel Regression (Spatial and Fix effect).R.  It is best to clone the file structure to your local system to run the code without error.
 
 **Methodology**
 
@@ -37,4 +37,6 @@ This study applies fixed-effects estimation and spatial data analysis to examine
 
 
 **Results**
-For detailed information, i already provided the power point result. currently, we are still processing the paper
+For detailed information, the powerpoint result is provided on this website. 
+
+Note: currently, our journal is in progress to finish
