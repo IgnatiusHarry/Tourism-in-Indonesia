@@ -1,7 +1,7 @@
 # Tourism Economics
 Regional Tourism Dynamics in Indonesia: A Spatial and Fixed Effect Analysis of Economic Performance and Unemployment in 34 Provinces (2018-2020)
 
-National Chengchi University (政大）
+**National Chengchi University (政大）**
 
 Contributors
 
