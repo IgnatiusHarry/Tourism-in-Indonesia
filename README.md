@@ -6,6 +6,7 @@ National Chengchi University
 Contributors
 
 Ignatius Harry Cahiadharma 柯昱安 - 112266019
+
 Marcella Alifia Kuswana Putri 潘怡璇 - 112266015
 
 **Research Description**
