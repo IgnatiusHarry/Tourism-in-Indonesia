@@ -29,7 +29,7 @@ The dataset used in this study contains information on the impact of tourism on 
 
 **File Structure**
 
-The cleaned data for the tourism dataset is in the present folder as IJASE-AnalysisofTheRoleofTourisminTheEconomyinIndonesia.xlsx. Then, for R code is separated into two files, firstly all of the code for map and spatial analysis (Ggplot, Moran’s, Lisa cluster, etc) is in the folder called ..., secondly, all of the causality or regression code is called Panel Regression (Spatial and Fix effect). It is best to clone the file structure to your local system to run the code without error.
+The cleaned data for the tourism dataset is in the present folder as IJASE-AnalysisofTheRoleofTourisminTheEconomyinIndonesia.xlsx. Then, for R code is separated into two files, firstly all of the code for map and spatial analysis (Ggplot, Moran’s, Lisa cluster, etc) is in the folder called Map and Spatial Analysis.R , secondly, all of the causality or regression code is called Panel Regression (Spatial and Fix effect).R.  It is best to clone the file structure to your local system to run the code without error.
 
 **Methodology**
 
