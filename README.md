@@ -29,7 +29,7 @@ The dataset used in this study contains information on the impact of tourism on 
 
 **File Structure**
 
-The main file is found as code.R. The ESS dataset is in the present folder as ESS-Data-Wizard.csv, while the series of control variables is found in the Data folder. It is best to clone the file structure to your local system to run the code without error.
+The cleaned data for the tourism dataset is in the present folder as IJASE-AnalysisofTheRoleofTourisminTheEconomyinIndonesia.xlsx. Then, for R code is separated into two files, firstly all of the code for map and spatial analysis (Ggplot, Moran’s, Lisa cluster, etc) is in the folder called ..., secondly, all of the causality or regression code is called Panel Regression (Spatial and Fix effect). It is best to clone the file structure to your local system to run the code without error.
 
 **Methodology**
 
@@ -37,3 +37,4 @@ This study applies fixed-effects estimation and spatial data analysis to examine
 
 
 **Results**
+For detailed information, i already provided the power point result. currently, we are still processing the paper
