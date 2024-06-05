@@ -18,7 +18,9 @@ This study analyzes the impact of the tourism sector on the Gross Regional Domes
 The purpose of this study is to analyze the impact of tourism development on regional economic performance and unemployment in Indonesia, focusing on the 34 provinces from 2018 to 2020. Specifically, this research aims to:
 
 > Investigate the role of human development, tourism-related activities, and investment (both foreign and domestic) in influencing Gross Regional Domestic Product (GRDP) and unemployment rates at the provincial level.
+
 > Examine the spatial spillover effects of tourism growth and its broader economic implications.
+
 > Identify the localized factors that drive economic outcomes and unemployment, accounting for within-province variations.
 
 
@@ -32,7 +34,9 @@ The dataset used in this study contains information on the impact of tourism on 
 Data File: The cleaned data for the tourism dataset is available in the file IJASE-AnalysisofTheRoleofTourisminTheEconomyinIndonesia.xlsx.
 
 Code Files:
+
 > Map and Spatial Analysis: Contains all code for map and spatial analysis, including ggplot, Moran’s I, Lisa cluster, etc. This code is located in the folder Map and Spatial Analysis.R.
+
 > Panel Regression (Spatial and Fixed Effect): Contains all causality or regression code and is located in the file Panel Regression (Spatial and Fix effect).R.
 
 To ensure the code runs without error, it is recommended to clone the file structure to your local system.
