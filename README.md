@@ -14,6 +14,7 @@ This study analyzes the impact of the tourism sector on the Gross Regional  Dome
 uses the Tourism Satellite Account (TSA) framework from UNWTO to measure the total impact of tourism, which in this case is Gross Domestic Regional Product (GDRP). 
 
 **Purposes of the Study**
+
 The purpose of this study is to analyze the impact of tourism development on regional economic performance and unemployment in Indonesia, focusing on the 34 provinces from 2018 to 2020. Specifically, this research aims to: 
 - Investigate the role of human development, tourism-related activities, and investment (both foreign and domestic) in influencing Gross Regional Domestic Product (GRDP) and unemployment rates at the provincial level.
 - Examine the spatial spillover effects of tourism growth and its broader economic implications.
