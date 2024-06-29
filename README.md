@@ -3,11 +3,6 @@ Regional Tourism Dynamics in Indonesia: A Spatial and Fixed Effect Analysis of E
 
 **National Chengchi University (政大）**
 
-Contributors
-
-Ignatius Harry Cahiadharma 柯昱安 - 112266019
-
-Marcella Alifia Kuswana Putri 潘怡璇 - 112266015
 
 **Research Description**
 
