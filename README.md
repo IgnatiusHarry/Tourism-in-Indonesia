@@ -21,6 +21,7 @@ The purpose of this study is to analyze the impact of tourism development on reg
 
 
 **Data**
+![image](https://github.com/user-attachments/assets/216a579e-7ce5-4b0f-a0ae-49dfb3eea5cd)
 
 The dataset used in this study contains information on the impact of tourism on the Gross Domestic Regional Product (GDRP) in 34 provinces of Indonesia from 2018 to 2020. The variables include the number of foreign and domestic tourists as treatment variables, with GRDP as the outcome variable. The control variables are macroeconomic conditions (tourism employment, Foreign Direct Investment (FDI), and Domestic Direct Investment (DDI)), human capital (Human Development Index), infrastructure (number of accommodations), and population density. All data were sourced from Statistic Indonesia, except for the number of tourism employments, which was obtained from the Ministry of Tourism and Creative Economy.
 
@@ -42,4 +43,33 @@ This study applies fixed-effects estimation and spatial data analysis to examine
 
 
 **Results**
+
+This study concludes that tourism development, particularly international tourism, plays a
+significant role in influencing economic performance and reducing unemployment in
+Indonesian provinces. The fixed effect regression analysis indicates that foreign tourism has
+a statistically significant positive impact on GRDP, highlighting its importance in boosting
+economic activities. In contrast, domestic tourism does not show a significant effect on
+GRDP. Additionally, foreign tourism is found to significantly reduce unemployment rates,
+while domestic tourism does not have a notable impact on employment levels. The spatial
+analysis indicates that economic activities and unemployment rates demonstrate spatial
+clustering. Additionally, there is a positive spatial autocorrelation between Gross Regional
+Domestic Product (GRDP) and unemployment, suggesting that regions with higher GRDP
+or lower unemployment tend to be geographically close to each other. However, the study
+observes limited regional spillover effects, implying that economic benefits are mostly
+confined within individual provinces or regions.
+These findings underscore the need for targeted policies that enhance infrastructure and
+promote sustainable tourism practices to maximize tourism’s potential for regional
+development. Unlike domestic tourism, the study highlights that foreign tourism significantly
+contributes to economic growth and reduces unemployment. This disparity suggests that
+infrastructure and service quality, crucial for attracting and retaining international tourists,
+may be inadequate to fully leverage the potential of domestic tourism. Policymakers should
+focus on attracting more international tourists through targeted marketing campaigns,
+simplified visa procedures, and investment in tourism infrastructure. Simultaneously,
+creating travel incentives, improving infrastructure, and promoting local attractions are key
+for boosting domestic tourism. Investing in education and healthcare will enhance workforce
+productivity and overall economic growth. Encouraging foreign direct investment through
+incentives and public-private partnerships can further develop tourism. Additionally, better
+urban planning and promoting rural tourism can mitigate the negative effects of high
+population density. These strategies aim to maximize the economic benefits of both foreign
+and domestic tourism, fostering sustainable and inclusive growth.
 For detailed information, the PowerPoint presentation of the results is provided on this website.
