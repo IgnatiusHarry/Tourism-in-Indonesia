@@ -71,4 +71,5 @@ incentives and public-private partnerships can further develop tourism. Addition
 urban planning and promoting rural tourism can mitigate the negative effects of high
 population density. These strategies aim to maximize the economic benefits of both foreign
 and domestic tourism, fostering sustainable and inclusive growth.
-For detailed information, the PowerPoint presentation of the results is provided on this website.
+
+For simplied information, the PowerPoint presentation of the results is provided on this website.
