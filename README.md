@@ -21,7 +21,6 @@ The purpose of this study is to analyze the impact of tourism development on reg
 
 
 **Data**
-![image](https://github.com/user-attachments/assets/216a579e-7ce5-4b0f-a0ae-49dfb3eea5cd)
 
 The dataset used in this study contains information on the impact of tourism on the Gross Domestic Regional Product (GDRP) in 34 provinces of Indonesia from 2018 to 2020. The variables include the number of foreign and domestic tourists as treatment variables, with GRDP as the outcome variable. The control variables are macroeconomic conditions (tourism employment, Foreign Direct Investment (FDI), and Domestic Direct Investment (DDI)), human capital (Human Development Index), infrastructure (number of accommodations), and population density. All data were sourced from Statistic Indonesia, except for the number of tourism employments, which was obtained from the Ministry of Tourism and Creative Economy.
 
